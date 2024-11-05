@@ -126,7 +126,7 @@ h1{
 background: #2e2f42;
 }
 
-.logo-footer {
+.logo-foter, .logo-footer {
     font-family: "Roboto", sans-serif;
     font-weight: 700;
     font-size: 18px;
